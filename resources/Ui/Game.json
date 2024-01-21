@@ -1,0 +1,132 @@
+{
+    "buttons" : [
+    ],
+
+    "labels" : [
+        {
+            "name": "Score",
+            "pivot": "TopCenter",
+            "offset": { "x": 0, "y": -0.025 },
+            "size": { "x": 0.005, "y": 0.005 }
+        }
+    ],
+
+    "images": [
+        {
+            "name": "ProgressBarOutside",
+            "material": "SpriteMaterial",
+            "texture": "ProgressBarOutside",
+            "pivot": "TopCenter",
+            "offset": {
+                "x": 0,
+                "y": -0.013
+            },
+            "size": {
+                "x": 0.08,
+                "y": 0.002
+            },
+            "renderOrder": 5,
+            "zOffset": 0.01
+        },
+        {
+            "name": "ProgressBarInside",
+            "material": "ProgressBarMaterial",
+            "texture": "ProgressBarInside",
+            "pivot": "TopCenter",
+            "offset": {
+                "x": 0,
+                "y": -0.013
+            },
+            "size": {
+                "x": 0.08,
+                "y": 0.002
+            },
+            "renderOrder": 5,
+            "zOffset": 0.01
+        },
+        {
+            "name": "ProgressBarCar",
+            "material": "SpriteMaterial",
+            "texture": "ProgressBarCar",
+            "pivot": "TopCenter",
+            "offset": {
+                "x": -0.035,
+                "y": -0.0165
+            },
+            "size": {
+                "x": 0.006,
+                "y": 0.006
+            },
+            "renderOrder": 5,
+            "zOffset": 0.001
+        },
+        {
+            "name": "Flag",
+            "material": "SpriteMaterial",
+            "texture": "Flag",
+            "pivot": "TopCenter",
+            "offset": {
+                "x": 0.038,
+                "y": -0.0137
+            },
+            "size": {
+                "x": 0.006,
+                "y": 0.006
+            },
+            "renderOrder": 5,
+            "zOffset": 0.001
+        },
+        {
+            "name": "FuelTopBar",
+            "material": "AccelerationMaterial",
+            "texture": "FuelTopBarInside",
+            "pivot": "BottomRight",
+            "offset": {
+                "x": -0.02,
+                "y": 0.02
+            },
+            "size": {
+                "x": 0.01,
+                "y": 0.01
+            },
+            "renderOrder": 6,
+            "zOffset": 0.011
+        }
+    ],
+
+    "imageButtons" :
+    [
+        {
+            "name": "Accelerate",
+            "material": "AccelerationMaterial",
+            "texture": "FuelFull",
+            "pivot": "BottomRight",
+            "offset": {
+                "x": -0.02,
+                "y": 0.02
+            },
+            "size": {
+                "x": 0.03,
+                "y": 0.0318
+            },
+            "renderOrder": 5,
+            "zOffset": 0.01
+        },
+        {
+            "name": "KeyFuel",
+            "material": "SpriteMaterial",
+            "texture": "KeyTexture",
+            "pivot": "BottomRight",
+            "offset": {
+                "x": -0.02,
+                "y": 0.02
+            },
+            "size": {
+                "x": 0.03,
+                "y": 0.0318
+            },
+            "renderOrder": 5,
+            "zOffset": 0.01
+        }
+    ]
+}

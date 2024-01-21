@@ -1,0 +1,35 @@
+{
+    "buttons" : [
+    ],
+
+    "labels" : [
+
+    ],
+
+    "images" : [
+        {
+            "name" : "Result",
+            "material" : "SpriteMaterial",
+            "texture" : "ResultTexture",
+            "pivot" : "CenterCenter",
+            "offset": { "x": 0, "y": 0 },
+            "size": {"x": 0.065,  "y": 0.09 },
+            "renderOrder": 1,
+            "zOffset" : 0.01
+        }
+    ],
+
+    "imageButtons" :
+    [
+        {
+            "name" : "MainMenuButton",
+            "material" : "SpriteMaterial",
+            "texture" : "MainMenuTexture",
+            "pivot" : "CenterCenter",
+            "offset": { "x": 0, "y": -0.035 },
+            "size": {"x": 0.05,  "y": 0.018 },
+            "renderOrder": 3,
+            "zOffset" : 0.009
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "int" : 
+	{
+		"ShadowMapSize": 2048,
+		"ShadowMaxDistance": 10
+    },
+    "float" : 
+	{
+		"LightShiness": 8,
+		"VehicleMass" : 2,
+		"AngularDamping" : 0.001,
+		"LinearDamping" : 0.01,
+		"SleepingParam" : 0.1,
+		"Friction" : 0.4,
+		"Restitution" : 0.2,
+		"CameraLerpValue" : 0.3,
+		"StartAccelerationTime" : 5,
+		"StartAccelerationForce" : 2,
+		"AccelerationForce" : 3,
+		"scoreBoostPrice" : 20,
+		"enginePrice" : 30,
+		"fuelPrice" : 40,
+		"itemMultiply" : 2
+	},
+	"string" : 
+	{
+
+	},
+    "vector2" : 
+	{
+		
+	},
+    "vector3" :	
+	{
+		"Gravity" : {"x": 0, "y": -4, "z": 0},
+		"ScenePosition" : {"x": 0, "y": 0, "z": 0},
+		"ShadowIntensity" : {"x": 1, "y": 1, "z": 1},
+		"LightColor" : {"x": 0.95, "y": 0.9, "z": 0.8},
+		"LightDirection" : {"x": 0.25, "y": -0.5, "z": 0.5},
+		"CarPosition" : {"x": 40, "y": 7.5, "z": -31.4},
+		"CarRotation" : {"x": 0, "y": 3.14, "z": 0.2},
+		"CarSize" : {"x": 0.7, "y": 0.18, "z": 0.3},
+		"StartAcceleration" : {"x": -1.3, "y": -0.2, "z": 0},
+		"CameraOffset" : {"x": 1.5, "y": 0.7, "z": 0},
+		"CameraAngle" : {"x": 0.4, "y": -1.57, "z": 0}
+	},
+	"vector4" :	
+	{
+        
+	}
+}

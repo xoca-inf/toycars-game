@@ -1,0 +1,7 @@
+.cmake
+.idea
+.cache
+
+cmake-build*
+_out
+.vs

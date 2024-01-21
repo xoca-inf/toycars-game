@@ -1,0 +1,53 @@
+{
+	"models" :
+	{
+		"Scene" : "Models/1LVL.w4a",
+		"Car" : "Models/Car2.w4a"
+	},
+	"materials" :
+	{
+		"SceneMaterial" : "Materials/default.mat",
+		"SpriteMaterial" : "Materials/sprite.mat",
+		"ProgressBarMaterial" : "Materials/progressBar.mat",
+		"AccelerationMaterial" : "Materials/acceleration.mat"
+	},
+	"textures": {
+		"SceneTexture": "Textures/T__01_A.jpg",
+		"CarButton": "Textures/CarButton.png",
+		"GridTexture": "Textures/PrototypeGrid.png",
+		"CarTexture": "Textures/CAR2atlas.png",
+		"PlayTexture": "Textures/ButtonStart.png",
+		"ShopTexture": "Textures/Shop.png",
+		"SettingsTexture": "Textures/Settings.png",
+		"RetryTexture": "Textures/Retry.png",
+		"BackTexture": "Textures/Back.png",
+		"HighScoresTexture": "Textures/Highscores.png",
+		"MainMenuTexture": "Textures/MainMenu.png",
+		"KeyTexture": "Textures/Key.png",
+		"AccelerationTexture": "Textures/ButtonCanister.png",
+		"LevelProgressTexture": "Textures/LevelProgress.png",
+		"ResultTexture": "Textures/Result.png",
+		"ChooseACarTexture": "Textures/ChooseACar.png",
+		"ProgressBarOutside": "Textures/ProgressBarOutside.png",
+		"ProgressBarInside": "Textures/ProgressBarInside.png",
+		"ProgressBarCar": "Textures/ProgressBarCar.png",
+		"JeepTexture": "Textures/1.png",
+		"ExcavatorTexture": "Textures/2.png",
+		"FireCarTexture": "Textures/3.png",
+		"AmbulanceTexture": "Textures/4.png",
+		"PickupTexture": "Textures/5.png",
+		"TaxiSuvTexture": "Textures/6.png",
+		"SnowMachineTexture": "Textures/7.png",
+		"PoliceSuvTexture": "Textures/8.png",
+		"TankTexture": "Textures/Tank.png",
+		"Flag": "Textures/Flag.png",
+		"FuelEmpty": "Textures/FuelEmpty.png",
+		"FuelFull": "Textures/FuelFull.png",
+		"FuelTopBarInside": "Textures/FuelTopBarInside.png",
+		"FuelTopBarOutside": "Textures/FuelTopBarOutside.png",
+		"upEngine": "Textures/upEngine.png",
+		"upFuel": "Textures/upFuel.png",
+		"upPoints": "Textures/upPoints.png",
+		"CoinWindow": "Textures/CoinWindow.png"
+	}
+}

@@ -1,0 +1,67 @@
+{
+  "Cars" : [
+    {
+      "name" : "Jeep",
+      "model" : "Models/Car1.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.3, "y": 0.22, "z": 0.22},
+      "texture" : "Textures/Car1.png"
+    },
+    {
+      "name" : "Excavator",
+      "model" : "Models/Car2.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.7, "y": 0.5, "z": 0.4},
+      "texture" : "Textures/Car2.png"
+    },
+    {
+      "name" : "FireCar",
+      "model" : "Models/Car3.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.7, "y": 0.5, "z": 0.4},
+      "texture" : "Textures/Car3.png"
+    },
+    {
+      "name" : "Ambulance",
+      "model" : "Models/Car4.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.7, "y": 0.4, "z": 0.4},
+      "texture" : "Textures/Car4.png"
+    },
+    {
+      "name" : "Pickup",
+      "model" : "Models/Car5.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.7, "y": 0.18, "z": 0.3},
+      "texture" : "Textures/Car5.png"
+    },
+    {
+      "name" : "TaxiSuv",
+      "model" : "Models/Car6.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.7, "y": 0.18, "z": 0.3},
+      "texture" : "Textures/Car6.png"
+    },
+    {
+      "name" : "SnowMachine",
+      "model" : "Models/Car7.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.7, "y": 0.18, "z": 0.3},
+      "texture" : "Textures/Car7.png"
+    },
+    {
+      "name" : "PoliceSuv",
+      "model" : "Models/Car8.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.7, "y": 0.18, "z": 0.3},
+      "texture" : "Textures/Car8.png"
+    },
+    {
+      "name" : "Tank",
+      "model" : "Models/Tank.w4a",
+      "startSpeed": 1,
+      "vehicleSize": {"x": 0.7, "y": 0.18, "z": 0.3},
+      "texture" : "Textures/Tank.png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "buttons" : [
+    ],
+
+    "labels" : [
+
+    ],
+
+    "images" : [
+
+    ],
+
+    "imageButtons" :
+    [
+        {
+            "name" : "BackButton",
+            "material" : "SpriteMaterial",
+            "texture" : "BackTexture",
+            "pivot" : "BottomCenter",
+            "offset": { "x": 0, "y": 0.02 },
+            "size": {"x": 0.0188,  "y": 0.01 },
+            "renderOrder": 1,
+            "zOffset" : 0.01
+        }
+    ]
+}

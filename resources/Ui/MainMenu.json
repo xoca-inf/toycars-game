@@ -1,0 +1,64 @@
+{
+    "buttons" : 
+	[
+	
+    ],
+
+    "labels" : 
+	[
+      {
+        "name": "Score",
+        "pivot": "CenterCenter",
+        "offset": { "x": 0, "y": 0.02 },
+        "size": { "x": 0.005, "y": 0.005 }
+      }
+    ],
+
+    "images" : 
+	[
+    ],
+
+    "imageButtons" :
+    [
+		{
+            "name" : "StartButton",
+			"material" : "SpriteMaterial",
+            "texture" : "PlayTexture",
+			"pivot" : "CenterCenter",
+            "offset": { "x": 0, "y": 0 },
+            "size": {"x": 0.038,  "y": 0.02 },
+            "renderOrder": 1,
+            "zOffset" : 0.01
+        },
+		{
+            "name" : "SettingsButton",
+			"material" : "SpriteMaterial",
+            "texture" : "SettingsTexture",
+			"pivot" : "CenterRight",
+            "offset": { "x": -0.0085, "y": 0.013 },
+            "size": {"x": 0.0188,  "y": 0.01 },
+            "renderOrder": 1,
+            "zOffset" : 0.01
+        },
+		{
+            "name" : "ShopButton",
+			"material" : "SpriteMaterial",
+            "texture" : "ShopTexture",
+			"pivot" : "CenterRight",
+            "offset": { "x": -0.0085, "y": -0.013 },
+            "size": {"x": 0.0188,  "y": 0.01 },
+            "renderOrder": 1,
+            "zOffset" : 0.01
+        },
+        {
+          "name" : "HighScoresButton",
+          "material" : "SpriteMaterial",
+          "texture" : "HighScoresTexture",
+          "pivot" : "CenterRight",
+          "offset": { "x": -0.0085, "y": 0 },
+          "size": {"x": 0.0188,  "y": 0.01 },
+          "renderOrder": 1,
+          "zOffset" : 0.01
+        }
+    ]
+}
